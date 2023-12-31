@@ -7,7 +7,7 @@ const otherFontTheme = {
   fontFamily: 'Helvetica Neue',
   headerBgColor: '#6e48aa',
   headerFontColor: '#fff',
-  headerFontSize: '16px',
+  headerFontSize: '17px',
   botBubbleColor: '#6E48AA',
   botFontColor: '#fff',
   userBubbleColor: '#fff',
