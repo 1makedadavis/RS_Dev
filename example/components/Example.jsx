@@ -16,10 +16,15 @@ const otherFontTheme = {
 
 const steps = [
   {
+    id: '0',
+    message: 'Welcome to Makeda chatbot!',
+    trigger: '1',
+  },
+  {
     id: '1',
-    message: 'Hello World',
-    end: true
-  }
+    message: 'Bye!',
+    end: true,
+  },
 ];
 
 const ThemedExample = () => (
@@ -31,3 +36,4 @@ const ThemedExample = () => (
 );
 
 export default ThemedExample;
+
